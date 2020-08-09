@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web-portfolio/static/css/main.76975645.chunk.css",
+    "main.css": "/web-portfolio/static/css/main.56c3ad08.chunk.css",
     "main.js": "/web-portfolio/static/js/main.7124e85e.chunk.js",
     "main.js.map": "/web-portfolio/static/js/main.7124e85e.chunk.js.map",
     "runtime-main.js": "/web-portfolio/static/js/runtime-main.9e2f8706.js",
@@ -8,9 +8,9 @@
     "static/js/2.6208e7cb.chunk.js": "/web-portfolio/static/js/2.6208e7cb.chunk.js",
     "static/js/2.6208e7cb.chunk.js.map": "/web-portfolio/static/js/2.6208e7cb.chunk.js.map",
     "index.html": "/web-portfolio/index.html",
-    "precache-manifest.baaee7a5fd880c733221d5dc590d6a0b.js": "/web-portfolio/precache-manifest.baaee7a5fd880c733221d5dc590d6a0b.js",
+    "precache-manifest.40f0fe940812742453d0dbac7fb63acb.js": "/web-portfolio/precache-manifest.40f0fe940812742453d0dbac7fb63acb.js",
     "service-worker.js": "/web-portfolio/service-worker.js",
-    "static/css/main.76975645.chunk.css.map": "/web-portfolio/static/css/main.76975645.chunk.css.map",
+    "static/css/main.56c3ad08.chunk.css.map": "/web-portfolio/static/css/main.56c3ad08.chunk.css.map",
     "static/js/2.6208e7cb.chunk.js.LICENSE.txt": "/web-portfolio/static/js/2.6208e7cb.chunk.js.LICENSE.txt",
     "static/media/Detalle-Eventos-desktop.png": "/web-portfolio/static/media/Detalle-Eventos-desktop.c7b8b124.png",
     "static/media/Landing 01 - Sancor-01.png": "/web-portfolio/static/media/Landing 01 - Sancor-01.f90c26a1.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.9e2f8706.js",
     "static/js/2.6208e7cb.chunk.js",
-    "static/css/main.76975645.chunk.css",
+    "static/css/main.56c3ad08.chunk.css",
     "static/js/main.7124e85e.chunk.js"
   ]
 }
