@@ -1,0 +1,42 @@
+.profile_card{
+    background-color: #DBDBDB
+}
+.profile_picture{
+   /* float: left  */
+}
+.profile_name{
+    /* float:left; */
+    margin-left:20px;
+    margin-top: 10px;
+
+    font-size: 48px;
+}
+.profile_description{
+    /* float:left; */
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left:20px;
+    color: #636363;
+    font-style: inline;
+}
+@media  screen and(min-width: 400px){
+    .profile_picture{
+        /* float: left  */
+     }
+     .profile_name{
+         /* float:left; */
+         margin-left:20px;
+         margin-top: 10px;
+     
+         font-size: 10px;
+     }
+     .profile_description{
+         /* float:left; */
+         font-size: 30px;
+         margin-top: 20px;
+         margin-left:20px;
+         color: #636363;
+         font-style: inline;
+         background-color: black;
+     }
+}

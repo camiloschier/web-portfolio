@@ -1,0 +1,15 @@
+
+.proyect_name{
+    font-size: 28px;
+    margin-bottom: 10px
+}
+.proyect_tech{
+    margin-top: 15px;
+    color:#636363
+}
+.proyect_description{
+    color:#636363
+}
+.proyect_description_body{
+    font-family: Montserrat-Regular;
+}
